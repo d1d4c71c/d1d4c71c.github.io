@@ -25,6 +25,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+repository: d1d4c71c/d1d4c71c.github.io
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -55,7 +56,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-target-blank
 author:
   name   : "d1d4c71c"
   #avatar : "/assets/images/bio-photo.jpg"
