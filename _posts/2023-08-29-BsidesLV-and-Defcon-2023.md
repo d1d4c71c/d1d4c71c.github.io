@@ -1,42 +1,73 @@
 ---
-title: "Work vs. Legacy"
-date: 2023-08-30T15:24:32-0700
+title: "BsidesLV 2023 and Defcon 31"
+date: 2023-08-29T10:08:32-0700
 categories:
   - blog
 tags:
-  - career
-  - life
+  - Defcon
+  - BsidesLV
+  - Conferences
 ---
 
-I was at a meetup last night and some folks and I were discussing our experiences working
-at a variety of companies, and how, quite often, it felt like all the work we had done
-at a given place was just a flash in the pan, often undone just as soon as we left.
+Not too long ago, I returned from attending BSidesLV 2023 and Defcon 31. Here's some notes from that trip.
 
-This got me thinking about "legacy."
+# BsidesLV
+This could easily be one of my favorite conferences in terms of the overall experience. It's held at 
+the [Tuscany Suites Hotel and Casino](https://www.tuscanylv.com) the two days preceeding Defcon,
+and it's quite small, at least compared to Blackhat and Defcon, perhaps 1000 people.  It's well run,
+well organized, and had great talks across a large number of tracks.  
 
-My goal at any job is to "leave it better than I found it", but I can't count on any of the 
-code I wrote, systems I designed, policies I implemented, or findings I discovered to 
-have any sort of lifetime.  The vicissitudes of corporate life are such that everything
-changes, all the time, and what was important and valuable work today will be forgotten
-in a year as focus or demands change.  
+The setting is also pretty great - a smaller off-strip hotel and casino, with a mellow vibe. In fact,
+I liked it so much that I ended up staying the entire trip there. It reminded me of some of the good 
+parts of staying at the [Alexis Park](https://www.alexispark.com) for Defcon back in the day. 
 
-The things I create, or would if I was more of a developer than I am, may last for some
-time.  But this too is subject to the same sorts of changes. I'm sure the people 
-who poured their efforts into creating the Netscape web browser were proud of their work,
-but ultimately, it lasted just 13 years.  At some point in the future, no one will 
-remember it from actually having used it, and just a handful of historians will even
-know what it was. 
+Besides a lot of great talks, there were a ton of meetups, happy hours, and social events, and a 
+very fun pool party on Wednesday night.  Everyone was pretty great, not a ton of drunkeness (some, 
+but not a ton).  I'd definitely do this again.  
 
-Fame is fleeting too.  How many pundits and speakers were the rock stars of our industry
-for some brief moment, or even for a few years, but have now faded into obscurity? 
+In order to guarantee a badge, it's a good idea to donate to the organization when they open their
+donor drive. I'm not entirely sure how just showing up and trying to get a badge works.
 
-For me, what matters is only that I lived as close to my core values as I could, 
-was present for those who I love, and finally, to have the respect of my peers and 
-my community, however I define that. 
+One awesome thing is that the con ran a shuttle between the hotel and where Blackhat was held,
+and then ran one between the hotel and where Defcon was held.  That was very convenient, even 
+if one time, I got dropped off at the wrong place. 
 
-To put it more succinctly, I want to live in such a way that my funeral will be crowded.
+One pro-tip if you end up at the Tuscany at all, and want to get a drink - the bar by the pool is
+expensive (not as expensive as the Strip, but still expensive), but if you go to the bar in 
+the Casino, not only is it significantly cheaper, if you play a little video poker as you order
+your drink, they'll generally comp your drink as long as it's not too fancy.
 
-Other people may be more ambitious. They may want to get the fancy title or a big pile
-of money, and that latter can in fact last (c.f. generational wealth), at least for a while.
+# Defcon 31
+[Defcon](https://defcon.org) 31 was held at [Caesar's Forum](https://caesarsforum.com/) 
+(not to be confused with the Caeaar's Forum Shops), which is 
+the new GIGANTIC convention space in Vegas.  It sits between several connected hotels and very close to the 
+giant Ferris wheel called [The High Roller](https://www.caesars.com/linq/things-to-do/attractions/high-roller)
+and the [monorail](https://www.lvmonorail.com/), so you can't really beat it for location.
 
-But I just want to live my life in such a way that my funeral will be packed.
+But it's VAST.  That was one of the issues I think a lot of people had; depending on what you wanted
+to do, you might end up walking half a mile to one talk, then another half-mile to another talk, 
+and yet another to the village you wanted to check out.  But given the size of Defcon, and the 
+number of tracks, villages, and other events, this is kind of unavoidable.
+
+On the plus side, there was plenty of space for people to move in, and a noticable lack of Goons
+having to stand around all day and shout at people to "keep to the left" or whatever. It was 
+clean, didn't smell of smoke or despair, and was well air conditioned (perhaps too well, some of 
+the rooms were positively frigid).
+
+I've been going to Defcon on and off since [Defcon 7](https://defcon.org/html/defcon-7/defcon-7-post.html)
+it's been amazing to see how it's changed over the years.  Overall, it's better - more welcoming, more
+accessible, more supportive, more diverse.  But it's also so big now.  
+
+For me, smaller cons like [BSidesLV](https://bsideslv.org) give me the good parts of earlier 
+Defcons, but Defcon itself gives me a Cornucopia of cool stuff, and I have room in my life for both.
+
+# Next year?
+Absolutely.  I have a good group of friends and comrades I can spend time with, and lots of old
+friends to see at Defcon, and I really enjoyed BsidesLV and plan to return.
+
+In fact, if all goes to plan, I will probably end up being at [Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html)
+for Blackhat Training, then shift over to [Tuscany Suites Hotel and Casino](https://www.tuscanylv.com) for at least
+one night for BsidesLV/Blackhat Briefings, and then shift again to [The Linq](https://www.caesars.com/linq/hotel) for Defcon
+just to be closer to the action.  While the shuttle from BsidesLV was really handy, I feel like it would have made it easier
+to get more out of Defcon if I had been closer.
+
