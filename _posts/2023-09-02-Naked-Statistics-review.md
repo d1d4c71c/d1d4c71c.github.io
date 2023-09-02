@@ -28,16 +28,16 @@ It covers:
 * Deception using Descriptive Statistics
 * Correlation
 * Basic Probability
-* (The Monty Hall Problem)
+* The Monty Hall Problem
 * Problems with Probability
 * The Importance of Data
 * The Central Limit Theorem
 * Inference
-* * Polling
+* Polling
 * Regression Analysis
 * Common Regression Mistakes
 * Program Evaluation
-* (an appendix on statistical software, which does mention R, but doesn't mention python libraries) 
+* an appendix on statistical software, which does mention R, but doesn't mention python libraries
 
 It doesn't go into ML or AI, but as Regression Analysis is fundamental for much of that, it's a good place to start.
 
