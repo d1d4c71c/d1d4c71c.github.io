@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm d1d4c71c, a hacker from somewhere in the PNW in the USA. I've been doing IT and hacking stuff since the 1980s. 
+This site is where I plan to drop various bits of info, notes, and the occasional rant.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The reason why I'm doing this under a pseudonym is because I'm kind of sick of the attention economy - not that
+all the influencers in the hacking scene are bad, far from it...I just don't want to participate in that 
+thing, and don't want to worry about "monetizing" or really caring about viewership or having parasocial
+relationships with people I don't actually know.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+So, if you find value, that's good enough for me. I hope you do.
 
 
-[jekyll-organization]: https://github.com/jekyll
